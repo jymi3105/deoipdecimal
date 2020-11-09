@@ -1,0 +1,7 @@
+{
+    "name": "portatil/geoip",
+    "require": {
+        "foolz/inet": "^0.6.0",
+        "ipinfo/ipinfo": "^1.1"
+    }
+}
